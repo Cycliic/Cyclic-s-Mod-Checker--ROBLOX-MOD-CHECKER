@@ -1,6 +1,9 @@
 # Cyclic-s-Mod-Checker--ROBLOX-MOD-CHECKER
 A simple mod checker for you to add in your Roblox games to see if someone is cheating or not
 
+# DISCLAIMER - CURRENTLY NOT PUBLISHED 
+
+
 # How to install
 To install the mod checker
 Here are the steps
